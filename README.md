@@ -1,5 +1,5 @@
 # calculators
 Provide a Calculator API to determine affordability and financial forecasting  
 
-The calculator should aim to show a the user what their cash position will be if they don’t make the purchase or make a an alternative one. e.g. If the person buys a 20 000$ car instead of a 30 000$ car over a 5 years period for x Interest    
+This API is envisioned to guide first time asset buyers. The main premise is to determine affordibility based on an income value. A secondary feature which this api will provide is to provide financial forcasting in terms of alternate options to invest a portion of the affordibility figure.
 
